@@ -1,6 +1,8 @@
 # Ad_Hoc-Analysis
 AtliQ hardware consumer goods Ad_Hoc analysis
 
+Link to live dashboard : [here](https://app.powerbi.com/view?r=eyJrIjoiZmVmMjRhYjgtMWU0OC00ZmMzLWFjNmEtNDM0ZGE0YjJjMDhiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 # Problem Statement
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 
